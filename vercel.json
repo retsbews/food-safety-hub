@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/get-mpi-feed.js": {
+      "runtime": "@vercel/node@18.x"
+    }
+  }
+}
